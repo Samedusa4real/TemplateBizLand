@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "95rKuUTMqdF5+Il4em3Dp44BChOS9iZTnq9FijaM8bigQoZy8Sh7Xl1sTtXzwTuS9BcIM9dkT4CgRJHcL71UiQ==",
+  "dgSpecHash": "m4kM4pBWpLWv5jWiCqwbOaeLuijMOHAEY8Wf86xgcQFncnQw4Ec9B6sxp4JIYs5VCmH9K5sNU+I+JExWIrm5TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samedusa\\source\\repos\\TemplateBizLand\\TemplateBizLand\\TemplateBizLand.csproj",
+  "projectFilePath": "C:\\Users\\Samedusa\\Desktop\\Backend kapatilsin\\TemplateBizLand\\TemplateBizLand.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samedusa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Samedusa\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samedusa\\source\\repos\\TemplateBizLand\\TemplateBizLand\\TemplateBizLand.csproj": {}
+    "C:\\Users\\Samedusa\\Desktop\\Backend kapatilsin\\TemplateBizLand\\TemplateBizLand.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samedusa\\source\\repos\\TemplateBizLand\\TemplateBizLand\\TemplateBizLand.csproj": {
+    "C:\\Users\\Samedusa\\Desktop\\Backend kapatilsin\\TemplateBizLand\\TemplateBizLand.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samedusa\\source\\repos\\TemplateBizLand\\TemplateBizLand\\TemplateBizLand.csproj",
+        "projectUniqueName": "C:\\Users\\Samedusa\\Desktop\\Backend kapatilsin\\TemplateBizLand\\TemplateBizLand.csproj",
         "projectName": "TemplateBizLand",
-        "projectPath": "C:\\Users\\Samedusa\\source\\repos\\TemplateBizLand\\TemplateBizLand\\TemplateBizLand.csproj",
+        "projectPath": "C:\\Users\\Samedusa\\Desktop\\Backend kapatilsin\\TemplateBizLand\\TemplateBizLand.csproj",
         "packagesPath": "C:\\Users\\Samedusa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samedusa\\source\\repos\\TemplateBizLand\\TemplateBizLand\\obj\\",
+        "outputPath": "C:\\Users\\Samedusa\\Desktop\\Backend kapatilsin\\TemplateBizLand\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samedusa\\AppData\\Roaming\\NuGet\\NuGet.Config",
